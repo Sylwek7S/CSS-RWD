@@ -1,0 +1,109 @@
+body
+{
+    margin: 0 auto;
+    font-family: verdana;
+}
+nav
+{
+	margin: 0;
+}
+#gallery
+{
+    position: relative;
+    background-image: url(../img/man-1.jpg);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+header 
+{
+    position: absolute;
+    top: 50%;
+    margin: 0 30px;
+    transform: translateY(-50%);
+    color: #fff;
+}
+h1, h2
+{
+   font-family: verdana, sans-serif;
+   margin: 0;
+}
+h1
+{
+    font-size: 2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+#figure1
+{
+	height: 50%;
+	margin: 0;
+	margin-bottom: 10px;
+}
+.img-man-1
+{
+    width: 100%;
+    background-image: url("img/man-1.jpg");
+}
+.figcaption1
+{
+    font-size: 40px;
+}
+#figure2
+{
+	height: 70%;
+	margin: 0;
+	margin-bottom: 10px;
+    background-image: image('img/man-2.jpg');
+}
+.img-man-2
+{
+     width: 100%;
+}
+.figcaption2
+{
+    font-size: 40px;
+}
+#figure3
+{
+    width: 100%;
+    margin: 0;
+    margin-bottom: 10px;
+    background-image: image('img/man-1.jpg');
+}
+.img-man-3
+{
+     position: relative;
+    width: 100%;
+}
+.figcaption3
+{
+    font-size: 40px;
+    position: absolute;
+}
+
+
+* {
+	box-sizing: border-box;
+}
+*/
+
+
+
+
+
+

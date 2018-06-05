@@ -1,0 +1,91 @@
+/*responsywnosc*/
+
+@media all and (min-width: 992px) and (max-width: 1170px)
+{
+    #gallery
+    {
+        background-position: center top;
+        background-image: url(../img/man-2.jpg);
+        height: 70vh;
+    }
+    header
+    {
+        top: 30%;
+        right: 7%;
+    }
+}
+@media all and (max-width: 992px)
+{
+    #gallery
+    {
+        background-position: center;
+        background-image: url(../img/man-1.jpg);
+        height: 50vh;
+    }
+    header
+    {
+        position: relative;
+        color: #000;
+        text-align: center;
+        top: 60vh;
+        transform: none;
+    }   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+#gallery
+{
+    width: 80%;
+}
+figure
+{
+   width: 33%;
+}
+@media all and (min-width: 992px)
+{
+    figure 
+    {
+        width: 33%;
+    }
+}
+@media all and (min-width: 769px) and (max-width: 992px)
+{
+    figure 
+    {
+        width: 49%;
+    }
+}
+@media all and (max-width: 768px)
+{
+   figure 
+    {
+        width: 100%;
+    } 
+}
+@media all and (max-width: 480px)
+{
+    #gallery
+    {
+        width: 100%;
+    }
+}*/
